@@ -1,4 +1,4 @@
-# Mini Project 2024-25
+# Real-time-chat-app
 
 A **MERN** (MongoDB, Express, React, Node.js) based chat and forum application.
 
@@ -6,7 +6,7 @@ A **MERN** (MongoDB, Express, React, Node.js) based chat and forum application.
 
 ## 🔧 Project Structure
 
-Mini-Project-2024-25  
+Real-time-chat-app   
 ├── backend/  
 ├── frontend/  
 ├── .gitignore  
@@ -29,8 +29,8 @@ Before you begin, ensure you have the following installed:
 
 ### 1. Clone the Repository
 
-git clone https://github.com/sriharsha778/Mini-Project-2024-25.git  
-cd Mini-Project-2024-25  
+git clone https://github.com/sriharsha778/Real-time-chat-app   
+cd Real-time-chat-app  
 
 ---
 
