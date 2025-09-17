@@ -99,15 +99,5 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ---
 
-## ✅ Optional Enhancements
-
-Let us know if you'd like to include:
-
-- 📄 `.env.example` – Boilerplate for teammates' environment setup
-- 📑 API Documentation – Swagger or Postman collections
-- 🚀 Deployment Guide – Steps to deploy on Render, Vercel, Railway, etc.
-- 🖼️ Screenshots/GIFs – To showcase your UI and features
-
----
 
 **Made with ❤️ by your team for the 2024-25 Mini Project**
