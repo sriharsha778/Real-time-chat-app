@@ -101,4 +101,4 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ---
 
 
-**Made with ❤️ by your team for the 2024-25 Mini Project**
+**Made with ❤️ by our team for the 2024-25 Mini Project**
