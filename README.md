@@ -1,6 +1,7 @@
 # Real-time-chat-app
 
-A **MERN** (MongoDB, Express, React, Node.js) based chat and forum application.
+A MERN (MongoDB, Express, React, Node.js) based real-time person-to-person chat application that can be hosted on a local router.
+Everyone connected to the same router can sign up, log in, send messages, and share images in real time using Socket.IO and Cloudinary.
 
 ---
 
